@@ -1,0 +1,13 @@
+arguments=--init-script /Users/ono.keita/.eclipse/1534571781_macosx_cocoa_aarch64/configuration/org.eclipse.osgi/59/0/.cp/gradle/init/init.gradle -Porg.gradle.java.installations.paths\=/nix/store/1vv59r63zic4f2l274qanhn29x83hm2g-zulu-ca-jdk-25.0.3
+auto.sync=false
+build.scans.enabled=false
+connection.gradle.distribution=GRADLE_DISTRIBUTION(VERSION(8.9))
+connection.project.dir=
+eclipse.preferences.version=1
+gradle.user.home=
+java.home=/nix/store/bp2gjhd8vfyv2hg0i90sba2wp47vvflg-zulu-ca-jdk-21.0.11/Library/Java/JavaVirtualMachines/zulu-21.jdk/Contents/Home
+jvm.arguments=
+offline.mode=false
+override.workspace.settings=true
+show.console.view=true
+show.executions.view=true
