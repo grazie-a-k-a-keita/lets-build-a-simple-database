@@ -35,7 +35,7 @@ printf 'hello\n.exit\n' | gradle -q --console=plain run
 ### 進捗
 
 - [x] [Part 1 - Introduction and Setting up the REPL](https://cstack.github.io/db_tutorial/parts/part1.html)
-- [ ] [Part 2 - World's Simplest SQL Compiler and Virtual Machine](https://cstack.github.io/db_tutorial/parts/part2.html)
+- [x] [Part 2 - World's Simplest SQL Compiler and Virtual Machine](https://cstack.github.io/db_tutorial/parts/part2.html)
 - [ ] [Part 3 - An In-Memory, Append-Only, Single-Table Database](https://cstack.github.io/db_tutorial/parts/part3.html)
 - [ ] [Part 4 - Our First Tests (and Bugs)](https://cstack.github.io/db_tutorial/parts/part4.html)
 - [ ] [Part 5 - Persistence to Disk](https://cstack.github.io/db_tutorial/parts/part5.html)
